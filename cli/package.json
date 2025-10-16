@@ -1,0 +1,47 @@
+{
+  "name": "create-gbit-app",
+  "version": "1.0.0",
+  "description": "CLI para criar aplicações completas com Gbit Framework - Backend, Frontend e Smart Contracts",
+  "main": "index.js",
+  "bin": {
+    "create-gbit-app": "./bin/create-gbit.js"
+  },
+  "scripts": {
+    "test": "jest",
+    "link": "npm link"
+  },
+  "keywords": [
+    "cli",
+    "gbit",
+    "framework",
+    "full-stack",
+    "backend",
+    "frontend",
+    "smart-contracts",
+    "blockchain",
+    "web3",
+    "boilerplate",
+    "generator"
+  ],
+  "author": "Gbit Team",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Gislaine-programadora/create-gbit-app.git"
+  },
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "commander": "^11.1.0",
+    "figlet": "^1.7.0",
+    "fs-extra": "^11.2.0",
+    "handlebars": "^4.7.8",
+    "inquirer": "^8.2.6",
+    "ora": "^5.4.1"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}

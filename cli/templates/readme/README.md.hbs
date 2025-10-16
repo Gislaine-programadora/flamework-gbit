@@ -1,0 +1,79 @@
+# {{projectName}}
+
+Projeto criado com **Gbit Framework** 🚀
+
+## 📋 Descrição
+
+{{#if (eq projectType 'full')}}
+Projeto Full Stack completo com:
+{{#if includeBackend}}- ✅ Backend ({{backendFramework}}){{/if}}
+{{#if includeFrontend}}- ✅ Frontend ({{frontendFramework}}){{/if}}
+{{#if includeContracts}}- ✅ Smart Contracts ({{contractLanguage}}){{/if}}
+{{#if database}}- ✅ Banco de Dados ({{database}}){{/if}}
+{{/if}}
+
+## 🚀 Início Rápido
+
+### Com Docker (Recomendado)
+
+```bash
+docker-compose up
+```
+
+### Manual
+
+{{#if includeBackend}}
+#### Backend
+```bash
+cd backend
+npm install
+npm run dev
+```
+{{/if}}
+
+{{#if includeFrontend}}
+#### Frontend
+```bash
+cd frontend
+npm install
+npm run dev
+```
+{{/if}}
+
+{{#if includeContracts}}
+#### Smart Contracts
+```bash
+cd contracts
+npm install
+npx hardhat compile
+npx hardhat test
+```
+{{/if}}
+
+## 📁 Estrutura do Projeto
+
+```
+{{projectName}}/
+{{#if includeBackend}}├── backend/{{/if}}
+{{#if includeFrontend}}├── frontend/{{/if}}
+{{#if includeContracts}}├── contracts/{{/if}}
+{{#if database}}├── database/{{/if}}
+{{#if includeDocker}}├── docker/{{/if}}
+└── README.md
+```
+
+## 🛠️ Tecnologias
+
+{{#if includeBackend}}- Backend: {{backendFramework}} ({{backendLanguage}}){{/if}}
+{{#if includeFrontend}}- Frontend: {{frontendFramework}} ({{frontendLanguage}}){{/if}}
+{{#if includeContracts}}- Blockchain: {{contractLanguage}}{{/if}}
+{{#if database}}- Database: {{database}}{{/if}}
+{{#if includeDocker}}- DevOps: Docker & Docker Compose{{/if}}
+
+## 📄 Licença
+
+MIT
+
+---
+
+**Criado com ❤️ usando Gbit Framework**
