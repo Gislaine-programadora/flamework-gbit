@@ -85,7 +85,6 @@ async function generateFrontend(projectPath, answers) {
     'src/components',
     'src/pages',
     'src/services',
-    'src/styles',
     'src/assets'
   ];
 
@@ -95,9 +94,6 @@ async function generateFrontend(projectPath, answers) {
 
   // Gerar arquivos baseados no framework
   await renderTemplate(`frontend/${answers.frontendFramework.toLowerCase()}`, frontendPath, answers);
-
-  // Aplicar tema
-  await renderTemplate(`themes/${answers.theme.toLowerCase().replace(' ', '-')}`, frontendPath, answers);
 }
 
 async function generateContracts(projectPath, answers) {
