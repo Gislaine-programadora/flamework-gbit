@@ -1,11 +1,14 @@
 {
   "name": "{{projectName}}-frontend",
   "version": "1.0.0",
+  "private": true,
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "{{#if (eq frontendLanguage 'TypeScript')}}tsc && {{/if}}vite build",
-    "preview": "vite preview"
+    "build": "{{#if (eq frontendLanguage 'TypeScript')}}tsc -b && {{/if}}vite build",
+    "preview": "vite preview",
+    "lint": "eslint .",
+    "type-check": "{{#if (eq frontendLanguage 'TypeScript')}}tsc --noEmit{{else}}echo 'No type checking for JavaScript'{{/if}}"
   },
   "dependencies": {
     "react": "^18.3.1",

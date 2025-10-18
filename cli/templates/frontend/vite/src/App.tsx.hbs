@@ -1,0 +1,58 @@
+import { useState } from 'react'
+import './App.css'
+
+function App() {
+  const [count, setCount] = useState<number>(0)
+
+  return (
+    <div className="min-h-screen bg-gradient-to-br from-gbit-dark via-gbit-darker to-black flex items-center justify-center">
+      <div className="container mx-auto px-4 py-16">
+        <header className="text-center mb-12 animate-fade-in">
+          <h1 className="text-6xl font-bold bg-gradient-to-r from-gbit-red via-gbit-orange to-gbit-yellow bg-clip-text text-transparent mb-4">
+            {{projectName}}
+          </h1>
+          <p className="text-xl text-gbit-gray-light">
+            Bem-vindo ao seu projeto Gbit Framework 🚀
+          </p>
+        </header>
+        
+        <main className="max-w-2xl mx-auto">
+          <div className="card bg-gbit-card border border-gbit-border rounded-xl p-8 backdrop-blur-sm shadow-2xl">
+            <div className="text-center space-y-6">
+              <button 
+                onClick={() => setCount((count) => count + 1)}
+                className="px-8 py-4 bg-gradient-to-r from-gbit-red to-gbit-orange text-white font-semibold rounded-lg hover:shadow-lg hover:scale-105 transition-all duration-300"
+              >
+                Count is {count}
+              </button>
+              <p className="text-gbit-gray-light">
+                Edite <code className="px-2 py-1 bg-gbit-darker rounded text-gbit-orange">src/App.tsx</code> e salve para testar o HMR
+              </p>
+            </div>
+          </div>
+
+          <div className="mt-12 grid grid-cols-1 md:grid-cols-3 gap-6">
+            <div className="card bg-gbit-card border border-gbit-border rounded-lg p-6 hover:border-gbit-red transition-colors">
+              <h3 className="text-xl font-bold text-gbit-red mb-2">⚡ Vite</h3>
+              <p className="text-gbit-gray-light text-sm">Build tool ultrarrápido</p>
+            </div>
+            <div className="card bg-gbit-card border border-gbit-border rounded-lg p-6 hover:border-gbit-orange transition-colors">
+              <h3 className="text-xl font-bold text-gbit-orange mb-2">⚛️ React</h3>
+              <p className="text-gbit-gray-light text-sm">Biblioteca moderna UI</p>
+            </div>
+            <div className="card bg-gbit-card border border-gbit-border rounded-lg p-6 hover:border-gbit-yellow transition-colors">
+              <h3 className="text-xl font-bold text-gbit-yellow mb-2">🎨 Tailwind</h3>
+              <p className="text-gbit-gray-light text-sm">CSS utility-first</p>
+            </div>
+          </div>
+        </main>
+        
+        <footer className="text-center mt-16 text-gbit-gray-light">
+          <p>Criado com <span className="text-gbit-red">❤</span> pelo Gbit Framework</p>
+        </footer>
+      </div>
+    </div>
+  )
+}
+
+export default App
