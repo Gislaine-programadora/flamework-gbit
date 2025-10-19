@@ -1,73 +1,101 @@
-# Welcome to your Lovable project
+<div align="center">
 
-## Project info
+![Gbit Framework Logo](./src/assets/gbit-logo.png)
 
-**URL**: https://lovable.dev/projects/a9b565af-c6f7-4da6-b86c-f3a92a83dfca
+# Gbit Framework
 
-## How can I edit this code?
+### Crie aplicações completas — Backend, Frontend e Smart Contracts
 
-There are several ways of editing your application.
+[![NPM Version](https://img.shields.io/npm/v/create-gbit-app.svg)](https://www.npmjs.com/package/create-gbit-app)
+[![License](https://img.shields.io/npm/l/create-gbit-app.svg)](https://github.com/yourusername/create-gbit-app/blob/main/LICENSE)
 
-**Use Lovable**
+</div>
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/a9b565af-c6f7-4da6-b86c-f3a92a83dfca) and start prompting.
+## 🚀 Início Rápido
 
-Changes made via Lovable will be committed automatically to this repo.
-
-**Use your preferred IDE**
-
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
-
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
-
-Follow these steps:
-
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
-
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
+```bash
+$ npx create-gbit "meu-projeto"
 ```
 
-**Edit a file directly in GitHub**
+## ✨ Features
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+- ✓ **Backend Completo** - Node.js ou Python com Express, Nest.js ou Flask
+- ✓ **Frontend Moderno** - React, Next.js ou Vite com TypeScript e Tailwind CSS
+- ✓ **Smart Contracts** - Solidity ou Vyper com scripts de deploy automáticos
+- ✓ **Docker Ready** - Docker e Docker Compose configurados automaticamente
 
-**Use GitHub Codespaces**
+## 🎯 O que é o Gbit Framework?
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+O Gbit Framework é uma ferramenta CLI que permite criar aplicações full stack completas em minutos, incluindo:
 
-## What technologies are used for this project?
+- **Backend Poderoso**: Node.js ou Python com Express, Nest.js ou Flask. WebSockets, APIs REST e muito mais.
+- **Frontend Moderno**: React, Next.js ou Vite com TypeScript. Tailwind CSS e componentes prontos.
+- **Blockchain Ready**: Smart contracts em Solidity ou Vyper. Scripts de deploy e ABI automáticos.
+- **Pronto para Produção**: Docker, Docker Compose, CI/CD com Vercel. Tudo configurado automaticamente.
 
-This project is built with:
+## 📦 Instalação
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
+### Uso Direto (Recomendado)
+
+```bash
+npx create-gbit-app meu-projeto
+```
+
+### Instalação Global
+
+```bash
+npm install -g create-gbit-app
+create-gbit-app meu-projeto
+```
+
+## 🛠️ Tecnologias Suportadas
+
+### Backend
+- Node.js (Express, Nest.js)
+- Python (Flask)
+- WebSockets (Socket.io)
+
+### Frontend
+- React + Vite
+- Next.js
+- TypeScript/JavaScript
 - Tailwind CSS
 
-## How can I deploy this project?
+### Smart Contracts
+- Solidity
+- Vyper
+- Hardhat
+- Deploy Scripts Automáticos
 
-Simply open [Lovable](https://lovable.dev/projects/a9b565af-c6f7-4da6-b86c-f3a92a83dfca) and click on Share -> Publish.
+### Banco de Dados
+- PostgreSQL
+- MySQL
+- MongoDB
+- SQLite
 
-## Can I connect a custom domain to my Lovable project?
+### DevOps
+- Docker & Docker Compose
+- CI/CD Vercel
+- Git Configuration
 
-Yes, you can!
+## 📖 Documentação
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
+Para mais informações, visite a [documentação completa](https://github.com/yourusername/create-gbit-app).
 
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+## 🤝 Contribuindo
+
+Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull requests.
+
+## 📄 Licença
+
+MIT
+
+---
+
+<div align="center">
+
+**Criado com ❤️ usando Gbit Framework**
+
+[Website](https://gbitframework.com) • [Documentação](https://docs.gbitframework.com) • [GitHub](https://github.com/yourusername/create-gbit-app)
+
+</div>
