@@ -225,8 +225,8 @@ Se este projeto foi útil, considere dar uma ⭐️ no GitHub!
 
 ## 📞 Contato
 
-- Website: [gbitframework.com](https://gbitframework.com)
-- Email: contato@gbitframework.com
+- Website: [gbitframework.com](https://gislaine-programadora.github.io/flamework-gbit/)
+- Email: gislainelophes@gmail.com
 - GitHub: [@Gislaine-programadora](https://github.com/Gislaine-programadora)
 
 ---

@@ -4,7 +4,7 @@
 
 
 
-# Gbit Framework
+# Gbit  Framework  sit https://www.npmjs.com/package/create-gbit-app
 
 ### Crie aplicações completas — Backend, Frontend e Smart Contracts
 
@@ -93,6 +93,8 @@ Para mais informações, visite a [documentação completa](https://github.com/g
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull requests.
 
 ## 📄 Licença
+
+[![npm version](https://img.shields.io/npm/v/create-gbit-app.svg)](https://www.npmjs.com/package/create-gbit-app)
 
 MIT
 
