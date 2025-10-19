@@ -6,6 +6,8 @@
 
 # Gbit  Framework  sit https://www.npmjs.com/package/create-gbit-app
 
+[![npm version](https://img.shields.io/npm/v/create-gbit-app.svg)](https://www.npmjs.com/package/create-gbit-app)
+
 ### Crie aplicações completas — Backend, Frontend e Smart Contracts
 
 [![NPM Version](https://img.shields.io/npm/v/create-gbit-app.svg)](https://www.npmjs.com/package/create-gbit-app)
@@ -40,6 +42,9 @@ https://github.com/Gislaine-programadora/flamework-gbit/blob/main/LICENSE
 - **Pronto para Produção**: Docker, Docker Compose, CI/CD com Vercel. Tudo configurado automaticamente.
 
 ## 📦 Instalação
+
+🔗 Link oficial do seu pacote   https://www.npmjs.com/package/create-gbit-app
+
 
 ### Uso Direto (Recomendado)
 
