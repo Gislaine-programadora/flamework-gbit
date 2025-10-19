@@ -9,7 +9,7 @@
 ### Crie aplicações completas — Backend, Frontend e Smart Contracts
 
 [![NPM Version](https://img.shields.io/npm/v/create-gbit-app.svg)](https://www.npmjs.com/package/create-gbit-app)
-[![License](https://img.shields.io/npm/l/create-gbit-app.svg)](https://github.com/yourusername/create-gbit-app/blob/main/LICENSE)
+[![License](https://img.shields.io/npm/l/create-gbit-app.svg)](https://github.com/Gislaine-programadora/create-gbit-app/blob/main/LICENSE)
 
 </div>
 
@@ -29,6 +29,10 @@ $ npx create-gbit "meu-projeto"
 ## 🎯 O que é o Gbit Framework?
 
 O Gbit Framework é uma ferramenta CLI que permite criar aplicações full stack completas em minutos, incluindo:
+
+![Gbit Framework Landing Page](https://copilot.microsoft.com/th/id/BCO.ffb573bf-1723-48ba-b20d-f16c1acfc020.png)
+
+https://github.com/Gislaine-programadora/flamework-gbit/blob/main/LICENSE
 
 - **Backend Poderoso**: Node.js ou Python com Express, Nest.js ou Flask. WebSockets, APIs REST e muito mais.
 - **Frontend Moderno**: React, Next.js ou Vite com TypeScript. Tailwind CSS e componentes prontos.
@@ -82,7 +86,7 @@ create-gbit-app meu-projeto
 
 ## 📖 Documentação
 
-Para mais informações, visite a [documentação completa](https://github.com/yourusername/create-gbit-app).
+Para mais informações, visite a [documentação completa](https://github.com/gislaine-programadora/create-gbit-app).
 
 ## 🤝 Contribuindo
 
@@ -98,6 +102,6 @@ MIT
 
 **Criado com ❤️ usando Gbit Framework**
 
-[Website](https://gbitframework.com) • [Documentação](https://docs.gbitframework.com) • [GitHub](https://github.com/yourusername/create-gbit-app)
+[Website](https://gbitframework.com) • [Documentação](https://docs.gbitframework.com) • [GitHub](https://github.com/gislaine-programadora/create-gbit-app)
 
 </div>
