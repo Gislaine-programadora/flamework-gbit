@@ -1,6 +1,8 @@
 <div align="center">
 
-![Gbit Framework Logo](./src/assets/gbit-logo.png)
+<img src="./src/assets/gbit-logo.png" alt="Gbit Framework Logo" width="192" height="192" />
+
+
 
 # Gbit Framework
 
