@@ -1,30 +1,147 @@
-<!doctype html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Gbit Framework - Create Full Stack Apps Instantly</title>
-    <meta name="description" content="Crie aplicações completas com Backend, Frontend e Smart Contracts prontas para produção. Framework poderoso para desenvolvimento rápido." />
-    <meta name="keywords" content="gbit, framework, fullstack, backend, frontend, smart contracts, blockchain, react, nodejs" />
-    <meta name="author" content="Gbit Framework" />
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Gbit Framework</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Segoe UI', sans-serif;
+      background: linear-gradient(to bottom, #0f2027, #203a43, #2c5364);
+      color: #fff;
+    }
+    header {
+      text-align: center;
+      padding: 3rem 1rem 1rem;
+    }
+    header img {
+      width: 192px;
+      height: 192px;
+    }
+    h1 {
+      font-size: 2.5rem;
+      margin-top: 1rem;
+    }
+    p {
+      font-size: 1.2rem;
+      max-width: 700px;
+      margin: 1rem auto;
+    }
+    .hero {
+      display: flex;
+      justify-content: center;
+      margin: 2rem auto;
+    }
+    .hero img {
+      max-width: 90%;
+      border-radius: 12px;
+      box-shadow: 0 0 20px rgba(0, 255, 255, 0.3);
+    }
+    .button {
+      display: inline-block;
+      background: #00bcd4;
+      color: #fff;
+      padding: 0.8rem 1.5rem;
+      border-radius: 8px;
+      text-decoration: none;
+      font-weight: bold;
+      margin-top: 1rem;
+    }
+    section {
+      padding: 2rem 1rem;
+      max-width: 900px;
+      margin: auto;
+    }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin-top: 1rem;
+    }
+    th, td {
+      border: 1px solid #00bcd4;
+      padding: 0.8rem;
+      text-align: left;
+    }
+    pre {
+      background: #1c1c1c;
+      padding: 1rem;
+      border-radius: 8px;
+      overflow-x: auto;
+    }
+    ul {
+      list-style: none;
+      padding-left: 0;
+    }
+    ul li::before {
+      content: "⭐ ";
+    }
+    footer {
+      text-align: center;
+      padding: 2rem;
+      font-size: 0.9rem;
+      color: #ccc;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <img src="./src/assets/gbit-logo.png" alt="Gbit Framework Logo" />
+    <h1>🚀 Gbit Framework</h1>
+    <p>Crie aplicações completas — Backend, Frontend e Smart Contracts — com apenas um comando.</p>
+    <a href="https://github.com/Gislaine-programadora/flamework-gbit" class="button">🔗 Repositório Oficial</a>
+  </header>
 
-    <meta property="og:title" content="Gbit Framework - Create Full Stack Apps" />
-    <meta property="og:description" content="Crie aplicações completas — Backend, Frontend e Smart Contracts — prontas para produção" />
-    <meta property="og:type" content="website" />
-    <meta property="og:image" content="/og-image.png" />
+  <div class="hero">
+    <img src="https://copilot.microsoft.com/th/id/BCO.ffb573bf-1723-48ba-b20d-f16c1acfc020.png" alt="Imagem Hero Gbit Framework" />
+  </div>
 
-    <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:title" content="Gbit Framework" />
-    <meta name="twitter:description" content="Create Full Stack Apps Instantly" />
-    <meta name="twitter:image" content="/og-image.png" />
-    
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Fira+Code:wght@400;500;600&display=swap" rel="stylesheet">
-  </head>
+  <section>
+    <h2>🧰 Recursos Inclusos</h2>
+    <table>
+      <tr><th>Módulo</th><th>Tecnologias Disponíveis</th></tr>
+      <tr><td>Backend</td><td>Node.js, Express, WebSockets, SQLite, PostgreSQL</td></tr>
+      <tr><td>Frontend</td><td>Vite, React, Next.js, TypeScript</td></tr>
+      <tr><td>Smart Contracts</td><td>Solidity, Hardhat, scripts de deploy e ABI</td></tr>
+      <tr><td>DevOps</td><td>Docker, Docker Compose, Git, Vercel</td></tr>
+      <tr><td>Extras</td><td>README automático, tema escuro, CLI interativo</td></tr>
+    </table>
+  </section>
 
-  <body>
-    <div id="root"></div>
-    <script type="module" src="/src/main.tsx"></script>
-  </body>
+  <section>
+    <h2>🎯 Como funciona?</h2>
+    <pre>npx create-gbit-app nome-do-projeto</pre>
+    <p>Você será guiado por um CLI interativo com opções personalizadas.</p>
+  </section>
+
+  <section>
+    <h2>📦 Estrutura Gerada</h2>
+    <pre>
+📁 nome-do-projeto/
+├── backend/
+├── frontend/
+├── contracts/
+├── docker/
+└── README.md
+    </pre>
+  </section>
+
+  <section>
+    <h2>🧪 Teste agora</h2>
+    <a href="https://github.com/Gislaine-programadora/npx-teste.git" class="button">👉 Repositório de Teste</a>
+  </section>
+
+  <section>
+    <h2>📣 Contribua ou divulgue</h2>
+    <ul>
+      <li>Dê uma estrela no GitHub</li>
+      <li>Contribua com novos templates</li>
+      <li>Compartilhe com a comunidade Web3</li>
+    </ul>
+  </section>
+
+  <footer>
+    Feito com 💙 por Gislaine — Gbit Framework © 2025
+  </footer>
+</body>
 </html>
