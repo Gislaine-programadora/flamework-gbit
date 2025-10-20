@@ -11,7 +11,7 @@ CLI oficial do **Gbit Framework** para criar aplicações completas — Backend,
 ### Uso Direto (Recomendado)
 
 ```bash
-npx create-gbit-app meu-projeto
+npx create-gbit-app@Latest meu-projeto
 ```
 
 ### Instalação Global
@@ -128,7 +128,7 @@ Crie aplicações completas — Backend, Frontend e Smart Contracts — prontas 
 ### 1. Criar Projeto
 
 ```bash
-npx create-gbit-app meu-app
+npx create-gbit-app@Latest meu-app
 cd meu-app
 ```
 
@@ -171,7 +171,7 @@ cd frontend && npm run dev
 
 ## 🧪 Desenvolvimento Local do CLI
 
-Para testar o CLI localmente antes de publicar:
+
 
 ```bash
 # Clone o repositório
@@ -181,23 +181,11 @@ cd create-gbit-app/cli
 # Instale as dependências
 npm install
 
-# Crie um link simbólico global
-npm link
 
-# Agora você pode usar o CLI localmente
-create-gbit-app teste-local
 ```
 
-## 📤 Publicar no NPM
 
-```bash
-# 1. Login no NPM
-npm login
 
-# 2. Publicar
-npm publish
-
-# 3. Testar instalação
 npx create-gbit-app@latest novo-projeto
 ```
 
