@@ -169,10 +169,7 @@ cd backend && npm run dev
 # Terminal 2 - Frontend
 cd frontend && npm run dev
 ```
-
-## 🧪 Desenvolvimento Local do CLI
-
-
+# Github
 
 ```bash
 # Clone o repositório
