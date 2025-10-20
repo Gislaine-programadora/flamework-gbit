@@ -1,9 +1,11 @@
+# 🚀 Gbit Framework
+
 <div align="center">
 
-<img src="./src/assets/gbit-logo.png" alt="Gbit Framework Logo" width="192" height="192" />
+<img src="./assets/gbit-logo.png" alt="Gbit Framework Logo" width="192" height="192" />
 
+</div>
 
-# 🚀 Gbit Framework
 
 
 CLI oficial do **Gbit Framework** para criar aplicações completas — Backend, Frontend e Smart Contracts — prontas para produção.
