@@ -180,8 +180,7 @@ cd frontend && npm run dev
 
 ```bash
 # Clone o repositório
-git clone https://github.com/Gislaine-programadora/create-gbit-app.git
-cd create-gbit-app/cli
+git clone https://github.com/Gislaine-programadora/Flamework-gbit.git
 
 # Instale as dependências
 npm install
