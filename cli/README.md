@@ -1,8 +1,5 @@
 # 🚀 Create Gbit App
 
-<div align="center">
-
-<img src="./src/assets/gbit-logo.png" alt="Gbit Framework Logo" width="192" height="192" />
 
 CLI oficial do **Gbit Framework** para criar aplicações completas — Backend, Frontend e Smart Contracts — prontas para produção.
 
