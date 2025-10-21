@@ -1,4 +1,5 @@
 #!/usr/bin/env node
+const { createRootPackageJson } = require('../lib/package');
 
 const { program } = require('commander');
 const inquirer = require('inquirer');

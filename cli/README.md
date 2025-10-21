@@ -1,10 +1,33 @@
 # 🚀 Gbit Framework
 
 <div align="center">
-
-<img src="./assets/gbit-logo.png" alt="Gbit Framework Logo" width="192" height="192" />
-
+  <img src="./assets/gbit-logo.png" alt="Gbit Framework Logo" width="192" height="192" />
 </div>
+
+<p align="center">
+  CLI oficial do <strong>Gbit Framework</strong> para criar aplicações completas — Backend, Frontend e Smart Contracts — prontas para produção.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Gbit-Framework-red?style=for-the-badge" />
+  <img src="https://img.shields.io/npm/v/create-gbit-app?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/license-MIT-green?style=for-the-badge" />
+</p>
+
+---
+
+## ✨ Sobre o Gbit Framework
+
+O **Gbit Framework** é uma solução moderna e modular para criar aplicações full stack com rapidez e escalabilidade. Ele gera uma estrutura de projeto completa com backend, frontend, smart contracts, banco de dados, Docker, CI/CD e muito mais — tudo pronto para produção.
+
+---
+
+## 📦 Instalação
+
+### 🔹 Uso Direto (Recomendado)
+
+```bash
+npx create-gbit-app@latest meu-projeto
 
 
 
@@ -192,6 +215,45 @@ npm install
 
 npx create-gbit-app@latest  "novo-projeto"
 ```
+...
+
+meu-projeto/
+├── backend/
+├── frontend/
+├── contracts/
+├── database/
+├── docker/
+├── .github/
+├── .gitignore
+├── vercel.json
+└── README.md
+...
+
+
+🧱 gbit-build: ferramenta de build completa
+
+O pacote  é responsável por empacotar e preparar seu projeto com comandos simples e poderosos:
+
+📦 Instalação
+
+```bash
+npm install --save-dev gbit-build
+
+...
+
+⚙️ Comandos disponíveis
+
+```bash
+
+npx gbit-build               # Build completo
+npx gbit-build --only-frontend
+npx gbit-build --skip-docker
+npx gbit-build --verbose
+npx gbit-build --dry-run
+...
+
+O  automatiza o build do frontend, backend e geração de imagem Docker.
+
 
 ## 🤝 Contribuindo
 
