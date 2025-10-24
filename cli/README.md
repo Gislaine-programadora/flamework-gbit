@@ -1,8 +1,7 @@
 # 🚀 Gbit Framework
 
-<div align="center">
-  <img src="./assets/gbit-logo.png" alt="Gbit Framework Logo" width="192" height="192" />
-</div>
+<img src="https://raw.githubusercontent.com/Gislaine-programadora/flamework-gbit/main/cli/src/assets/gbit-logo.png" alt="Gbit Framework Logo" width="192" height="192" />
+
 
 <p align="center">
   CLI oficial do <strong>Gbit Framework</strong> para criar aplicações completas — Backend, Frontend e Smart Contracts — prontas para produção.
