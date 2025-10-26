@@ -19,7 +19,7 @@
 ## 🚀 Início Rápido
 
 ```bash
-$ npx create-gbit "meu-projeto"
+$ npx create-gbit-app "meu-projeto"
 ```
 
 ## ✨ Features
