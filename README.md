@@ -1,5 +1,6 @@
+
 <div align="center">
-  <img src="src/assets/gbit-logo.png" alt="Gbit Framework Logo" width="192" height="192" />
+  <img src="./assets/gbit-logo.png" alt="Gbit Framework Logo" width="192" height="192" />
 </div>
 
 
