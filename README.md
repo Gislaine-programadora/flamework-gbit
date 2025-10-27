@@ -1,11 +1,12 @@
 <div align="center">
+  <img src="https://raw.githubusercontent.com/Gislaine-programadora/framework-gbit/main/src/assets/gbit-logo.png" alt="Gbit Framework Logo" width="192" height="192" />
+</div>
 
-<img src="./src/assets/gbit-logo.png" alt="Gbit Framework Logo" width="192" height="192" />
 
 
 
 # Gbit  Framework 
- sit https://gislaine-programadora.github.io/flamework-gbit/
+    https://gislaine-programadora.github.io/flamework-gbit/
 
 [![npm version](https://img.shields.io/npm/v/create-gbit-app.svg)](https://www.npmjs.com/package/create-gbit-app)
 
