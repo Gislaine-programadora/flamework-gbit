@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Gislaine-programadora/framework-gbit/main/src/assets/gbit-logo.png" alt="Gbit Framework Logo" width="192" height="192" />
+  <img src="./assets/gbit-logo.png" alt="Gbit Framework Logo" width="192" height="192" />
 </div>
 
 
