@@ -48,7 +48,7 @@ https://github.com/Gislaine-programadora/flamework-gbit/blob/main/LICENSE
 
 ## 📦 Instalação
 
-🔗 Link oficial do seu pacote   https://www.npmjs.com/package/create-gbit-app
+🔗 Link oficial do pacote   https://www.npmjs.com/package/create-gbit-app
 
 
 ### Uso Direto (Recomendado)
