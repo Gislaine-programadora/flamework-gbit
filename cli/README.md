@@ -41,7 +41,7 @@ CLI oficial do **Gbit Framework** para criar aplicações completas — Backend,
 ### Uso Direto (Recomendado)
 
 ```bash
-npx create-gbit-app@Latest meu-projeto
+npx create-gbit-app@latest meu-projeto
 ```
 
 ### Instalação Global
@@ -158,7 +158,7 @@ Crie aplicações completas — Backend, Frontend e Smart Contracts — prontas 
 ### 1. Criar Projeto
 
 ```bash
-npx create-gbit-app@Latest meu-app
+npx create-gbit-app@latest meu-app
 cd meu-app
 ```
 
@@ -202,7 +202,7 @@ cd frontend && npm run dev
 
 ```bash
 # Clone o repositório
-git clone https://github.com/Gislaine-programadora/Flamework-gbit.git
+git clone https://github.com/Gislaine-programadora/Framework-gbit.git
 
 # Instale as dependências
 npm install
@@ -212,7 +212,7 @@ npm install
 
 
 
-npx create-gbit-app@latest  "novo-projeto"
+npx create-gbit-app@latest "novo-projeto"
 ```
 ...
 
@@ -278,7 +278,7 @@ Se este projeto foi útil, considere dar uma ⭐️ no GitHub!
 
 ## 📞 Contato
 
-- Website: [gbitframework.com](https://gislaine-programadora.github.io/flamework-gbit/)
+- Website: [gbitframework.com](https://gislaine-programadora.github.io/framework-gbit/)
 - Email: gislainelophes@gmail.com
 - GitHub: [@Gislaine-programadora](https://github.com/Gislaine-programadora)
 
