@@ -95,6 +95,39 @@ create-gbit-app meu-projeto
 - CI/CD Vercel
 - Git Configuration
 
+  ## Ferramenta de compilacao use "gbit-build" typeScript/vite:
+  
+  🧱 gbit-build: ferramenta de build completa
+
+  ```bash
+  npx gbit-build
+
+  ...
+
+O pacote  é responsável por empacotar e preparar seu projeto com comandos simples e poderosos:
+
+📦 Instalação
+
+```bash
+npm install --save-dev gbit-build
+
+...
+
+⚙️ Comandos disponíveis
+
+```bash
+
+npx gbit-build               # Build completo
+npx gbit-build --only-frontend
+npx gbit-build --skip-docker
+npx gbit-build --verbose
+npx gbit-build --dry-run
+...
+
+O  automatiza o build do frontend, backend e geração de imagem Docker.
+
+
+
 ## 📖 Documentação
 
 Para mais informações, visite a [documentação completa](https://github.com/gislaine-programadora/create-gbit-app).
