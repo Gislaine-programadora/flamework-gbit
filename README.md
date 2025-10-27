@@ -99,10 +99,11 @@ create-gbit-app meu-projeto
   
   🧱 gbit-build: ferramenta de build completa
 
+
   ```bash
   npx gbit-build
 
-  ...
+  
 
 O pacote  é responsável por empacotar e preparar seu projeto com comandos simples e poderosos:
 
