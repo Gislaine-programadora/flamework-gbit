@@ -9,12 +9,16 @@ GBit is a powerful open-source tool designed for modern developers. With a singl
 
 Use the command:
 
-´´´ npx create-gbit-app "my-project"
-                            ´´´
-GBit also comes with an optimized build tool:
+´´´bash
+ npx create-gbit-app "my-project"
+...
 
- ´´npx gbit-build
-              ´´
+## GBit also comes with an optimized build tool:
+
+ ´´´bash
+ npx gbit-build
+ ...
+ 
 💡 Open Source | Fast | Modern | Developer-Gbit
 
 
