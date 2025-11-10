@@ -3,14 +3,23 @@
   <img src="./assets/gbit-logo.png" alt="Gbit Framework Logo" width="192" height="192" />
 </div>
 
+##  GBit — The All-in-One Modern Project Generator
+  
+GBit is a powerful open-source tool designed for modern developers. With a single command, it creates a complete project structure — including backend, frontend, and smart contracts — ready to build and deploy.
+
+Use the command:
+
+´´´ npx create-gbit-app "my-project"
+                            ´´´
+GBit also comes with an optimized build tool:
+
+ ´´npx gbit-build
+              ´´
+💡 Open Source | Fast | Modern | Developer-Gbit
 
 
 
-
-
-
-# Gbit  Framework 
-    https://gislaine-programadora.github.io/framework-gbit/
+# Gbit  Framework  
 
 [![npm version](https://img.shields.io/npm/v/create-gbit-app.svg)](https://www.npmjs.com/package/create-gbit-app)
 
