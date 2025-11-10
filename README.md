@@ -1,4 +1,3 @@
-
 <div align="center">
   <img src="./assets/gbit-logo.png" alt="Gbit Framework Logo" width="192" height="192" />
 </div>
@@ -9,15 +8,18 @@ GBit is a powerful open-source tool designed for modern developers. With a singl
 
 Use the command:
 
-´´´bash
- npx create-gbit-app "my-project"
-...
+
+```bash
+ npx create-gbit-app@latest "meu-projeto"
+```
 
 ## GBit also comes with an optimized build tool:
 
- ´´´bash
+
+```bash
  npx gbit-build
- ...
+```
+ 
  
 💡 Open Source | Fast | Modern | Developer-Gbit
 
