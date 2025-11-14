@@ -1,6 +1,9 @@
 # 🚀 Gbit Framework
 
-<img src="https://raw.githubusercontent.com/Gislaine-programadora/flamework-gbit/main/cli/src/assets/gbit-logo.png" alt="Gbit Framework Logo" width="192" height="192" />
+<div align="center">
+  <img src="src/assets/gbit-logo.png" alt="Gbit Framework Logo" width="192" height="192" />
+</div>
+
 
 
 <p align="center">
