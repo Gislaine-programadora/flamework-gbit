@@ -152,7 +152,8 @@ Para mais informações, visite a [documentação completa](https://github.com/g
 ## 🤝 Contribuindo
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull requests.
-<img width="1024" height="1536" alt="0a3b6732-d6c8-4e6a-abb1-6058eaea5b3f" src="https://github.com/user-attachments/assets/fafac48c-667d-430a-8176-a858239b10f5" />
+
+![image](https://github.com/user-attachments/assets/xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx)
 
 
 
