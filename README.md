@@ -1,9 +1,6 @@
-
-
-![gbit-logo](https://github.com/user-attachments/assets/caa77051-3500-4e16-82d0-a60eecacede9)
-
-
-
+<div align="center">
+  <img src="./assets/gbit-logo.png" alt="Gbit Framework Logo" width="192" height="192" />
+</div>
 
 
 ##  GBit — The All-in-One Modern Project Generator
