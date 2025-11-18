@@ -143,6 +143,7 @@ npx gbit-build --dry-run
 
 O  automatiza o build do frontend, backend e geração de imagem Docker.
 
+<img width="281" height="412" alt="image" src="https://github.com/user-attachments/assets/5eeada59-88ea-4dd5-a960-42f95ded9aa0" />
 
 
 ## 📖 Documentação
@@ -153,7 +154,8 @@ Para mais informações, visite a [documentação completa](https://github.com/g
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull requests.
 
-![Uploading 0a3b6732-d6c8-4e6a-abb1-6058eaea5b3f.png…]()
+<img width="281" height="412" alt="image" src="https://github.com/user-attachments/assets/0aab2899-ecdd-4874-ab2c-32a7903470e3" />
+
 
 
 
