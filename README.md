@@ -153,7 +153,9 @@ Para mais informações, visite a [documentação completa](https://github.com/g
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull requests.
 
-https://chatgpt.com/backend-api/estuary/content?id=file_00000000062c720e8e0a975dc14f3ed5&ts=489859&p=fs&cid=1&sig=6d28efd856ee081fc86a5445e5f07ceec72c962486ba155ec2d5bcf7a41e303b&v=0
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/2000c71e-f57a-40d7-9ea0-f43a38413c78" />
+
+
 
 ## 📄 Licença
 
