@@ -1,6 +1,10 @@
+<<<<<<< HEAD
 <div align="center">
   <img src="./src/assets/gbit-logo.png" alt="Gbit Framework Logo" width="192" height="192" />
 </div>
+=======
+ <div align="center">
+>>>>>>> 57ced75 (Atualizar readme)
 
 
 ##  GBit — The All-in-One Modern Project Generator
@@ -30,6 +34,21 @@ Use the command:
 
 [![npm version](https://img.shields.io/npm/v/create-gbit-app.svg)](https://www.npmjs.com/package/create-gbit-app)
 
+
+  ##  GBit — The All-in-One Modern Project Generator
+  
+GBit is a powerful open-source tool designed for modern developers. With a single command, it creates a complete project structure — including backend, frontend, and smart contracts — ready to build and deploy.
+
+Use the command:
+
+´´´ npx create-gbit-app "my-project"
+                            ´´´
+GBit also comes with an optimized build tool:
+
+ ´´npx gbit-build
+              ´´
+💡 Open Source | Fast | Modern | Developer-Gbit
+
 ### Crie aplicações completas — Backend, Frontend e Smart Contracts
 
 [![NPM Version](https://img.shields.io/npm/v/create-gbit-app.svg)](https://www.npmjs.com/package/create-gbit-app)
@@ -40,7 +59,11 @@ Use the command:
 ## 🚀 Início Rápido
 
 ```bash
+<<<<<<< HEAD
  npx create-gbit-app "meu-projeto"
+=======
+ npx create-gbit-app@latest "meu-projeto"
+>>>>>>> 57ced75 (Atualizar readme)
 ```
 
 ## ✨ Features
@@ -71,7 +94,7 @@ https://github.com/Gislaine-programadora/flamework-gbit/blob/main/LICENSE
 ### Uso Direto (Recomendado)
 
 ```bash
-npx create-gbit-app meu-projeto
+npx create-gbit-app@Latest meu-projeto
 ```
 
 ### Instalação Global
