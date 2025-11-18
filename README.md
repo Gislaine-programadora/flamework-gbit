@@ -165,6 +165,7 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull re
 [![npm version](https://img.shields.io/npm/v/create-gbit-app.svg)](https://www.npmjs.com/package/create-gbit-app)
 
 MIT
+<img width="1024" height="1536" alt="gbit-npm" src="https://github.com/user-attachments/assets/1a06a548-9d58-4029-b122-a2af4a65e095" />
 
 ---
 
