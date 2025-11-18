@@ -1,10 +1,9 @@
-<<<<<<< HEAD
+
 <div align="center">
   <img src="./src/assets/gbit-logo.png" alt="Gbit Framework Logo" width="192" height="192" />
 </div>
-=======
  <div align="center">
->>>>>>> 57ced75 (Atualizar readme)
+
 
 
 ##  GBit — The All-in-One Modern Project Generator
