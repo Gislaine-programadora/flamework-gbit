@@ -148,7 +148,7 @@ O  automatiza o build do frontend, backend e geração de imagem Docker.
 
 Para mais informações, visite a [documentação completa](https://github.com/gislaine-programadora/create-gbit-app).
 
-![Uploading image.png…]()
+ <img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/57d2e542-c9a9-4651-93e9-cfa9be5c8a0f" />
 
 
 ## 🤝 Contribuindo
