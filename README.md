@@ -154,7 +154,7 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull re
 
   
 
-https://github-production-user-asset-6210df.s3.amazonaws.com/223685871/515922327-b91c0b6a-0d46-4374-b78a-f6353fc5d16f.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20251118%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251118T202320Z&X-Amz-Expires=300&X-Amz-Signature=f34b6ca4bb8d0f767ee8d204936fcafd26119602bf6ded95a51fd612626378ec&X-Amz-SignedHeaders=host
+![Uploading image.png…]()
 
 
 
