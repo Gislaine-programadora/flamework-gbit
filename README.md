@@ -58,11 +58,11 @@ GBit also comes with an optimized build tool:
 ## 🚀 Início Rápido
 
 ```bash
-<<<<<<< HEAD
+
  npx create-gbit-app "meu-projeto"
-=======
+
  npx create-gbit-app@latest "meu-projeto"
->>>>>>> 57ced75 (Atualizar readme)
+
 ```
 
 ## ✨ Features
