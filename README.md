@@ -153,6 +153,8 @@ Para mais informações, visite a [documentação completa](https://github.com/g
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull requests.
 
+https://chatgpt.com/backend-api/estuary/content?id=file_00000000062c720e8e0a975dc14f3ed5&ts=489859&p=fs&cid=1&sig=6d28efd856ee081fc86a5445e5f07ceec72c962486ba155ec2d5bcf7a41e303b&v=0
+
 ## 📄 Licença
 
 [![npm version](https://img.shields.io/npm/v/create-gbit-app.svg)](https://www.npmjs.com/package/create-gbit-app)
