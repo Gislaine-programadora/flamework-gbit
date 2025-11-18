@@ -158,7 +158,7 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull re
 #npm
 
 <div align="center">
-  <img src="./src/assets/gbit-npm.png" alt="Gbit Framework Logo" width="192" height="192" />
+  <img src="./assets/gbit-npm.png" alt="Gbit Framework Logo" width="192" height="192" />
 </div>
 
 
