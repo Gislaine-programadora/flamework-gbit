@@ -155,7 +155,7 @@ Para mais informações, visite a [documentação completa](https://github.com/g
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull requests.
 
-  ![gbit-npm](https://raw.githubusercontent.com/Gislaine-programadora/Framework-gbit/main/assets/gbit-npm.png)
+  ![gbit-npm](https://raw.githubusercontent.com/Gislaine-programadora/Framework-gbit/main/src/assets/gbit-npm.png)
 
 
 ## 📄 Licença
