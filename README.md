@@ -1,4 +1,5 @@
-![gbit-logo](https://github.com/user-attachments/assets/da114ebf-f860-4822-99f4-8226ff83cecd)
+![gbit-logo](https://github.com/user-attachments/assets/7ddefe69-f0a5-445e-94cb-894c79761be3)
+
 
 
 
