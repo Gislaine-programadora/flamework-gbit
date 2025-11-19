@@ -144,6 +144,9 @@ create-gbit-app meu-projeto
   
 
 O pacote  é responsável por empacotar e preparar seu projeto com comandos simples e poderosos:
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/51131b3b-9941-45c1-8e87-ed2aa1de4971" />
+
+
 <div align="center">
   <img src="assets/gbit-npm.png" alt="Gbit Framework Logo" width="192" height="192" />
 </div>
