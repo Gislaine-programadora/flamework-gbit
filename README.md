@@ -178,10 +178,11 @@ Para mais informações, visite a [documentação completa](https://github.com/g
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull requests.
 
 #npm
-
 <div align="center">
-  <img src="./assets/gbit-npm.png" alt="Gbit Framework Logo" width="192" height="192" />
+  <img src="assets/gbit-npm.png" alt="Gbit Framework Logo" width="192" height="192" />
 </div>
+
+
 
 
 ## 📄 Licença
