@@ -19,7 +19,7 @@ Use the command:
 `´´
 
 
-## GBit also comes with an optimized build tool:
+GBit also comes with an optimized build tool:
 
 
 ```bash
