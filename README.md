@@ -80,10 +80,9 @@ npx create-gbit-app@Latest meu-projeto
 ## 🎯 O que é o Gbit Framework?
 
 O Gbit Framework é uma ferramenta CLI que permite criar aplicações full stack completas em minutos, incluindo:
+## ![Gbit Framework Landing Page](https://copilot.microsoft.com/th/id/BCO.ffb573bf-1723-48ba-b20d-f16c1acfc020.png)
 
-![Gbit Framework Landing Page](https://copilot.microsoft.com/th/id/BCO.ffb573bf-1723-48ba-b20d-f16c1acfc020.png)
-
-https://github.com/Gislaine-programadora/flamework-gbit/blob/main/LICENSE
+## https://github.com/Gislaine-programadora/flamework-gbit/blob/main/LICENSE
 
 - **Backend Poderoso**: Node.js ou Python com Express, Nest.js ou Flask. WebSockets, APIs REST e muito mais.
 - **Frontend Moderno**: React, Next.js ou Vite com TypeScript. Tailwind CSS e componentes prontos.
