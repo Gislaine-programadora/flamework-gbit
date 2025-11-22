@@ -1,4 +1,5 @@
 
+
 <div align="center">
   <img src="./src/assets/gbit-logo.png" alt="Gbit Framework Logo" width="192" height="192" />
 </div>
@@ -16,6 +17,7 @@ Use the command:
 ```bash
  npx create-gbit-app@latest "meu-projeto"
 `´´
+
 
 ## GBit also comes with an optimized build tool:
 
