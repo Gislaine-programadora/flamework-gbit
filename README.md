@@ -15,7 +15,7 @@ Use the command:
 
 ```bash
  npx create-gbit-app@latest "meu-projeto"
-```
+`´´
 
 ## GBit also comes with an optimized build tool:
 
@@ -61,12 +61,10 @@ GBit also comes with an optimized build tool:
 ## 🚀 Início Rápido
 
 ```bash
+npx create-gbit-app@Latest meu-projeto
+```
 
- npx create-gbit-app "meu-projeto"
-´´´
-´´´´
-
-  ## visual terminal: 
+### Visual terminal: 
 
 <img width="726" height="623" alt="image" src="https://github.com/user-attachments/assets/5207bb62-a58b-402b-af91-63297dcc2d4e" />
 
