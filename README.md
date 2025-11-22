@@ -6,7 +6,7 @@
 
 
 
-##  GBit — The All-in-One Modern Project Generator
+##  GBit — The All-in-One Modern Project GeneratoR
   
 GBit is a powerful open-source tool designed for modern developers. With a single command, it creates a complete project structure — including backend, frontend, and smart contracts — ready to build and deploy.
 
