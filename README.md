@@ -65,10 +65,6 @@ GBit also comes with an optimized build tool:
  npx create-gbit-app "meu-projeto"
 ´´´
 
-´´´bash
- npx create-gbit-app@latest "meu-projeto"
-
-```
 
   ## visual terminal: 
 
