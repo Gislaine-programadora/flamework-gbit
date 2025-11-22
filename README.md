@@ -6,28 +6,23 @@
  <div align="center">
 
 
-
-##  GBit — The All-in-One Modern Project GeneratoR
+## GBit — The All-in-One Modern Project GeneratoR
   
 GBit is a powerful open-source tool designed for modern developers. With a single command, it creates a complete project structure — including backend, frontend, and smart contracts — ready to build and deploy.
 
 Use the command:
 
-
 ```bash
  npx create-gbit-app@latest "meu-projeto"
-`´´
-
-
+```
+                          
 GBit also comes with an optimized build tool:
-
 
 ```bash
  npx gbit-build
 ```
- 
- 
 💡 Open Source | Fast | Modern | Developer-Gbit
+
 
 
 
