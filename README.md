@@ -23,6 +23,16 @@ GBit also comes with an optimized build tool:
 ```
 💡 Open Source | Fast | Modern | Developer-Gbit
 
+<div align="center">
+
+<img src="./assets/hero-computer.png" alt="Gbit Framework Hero" width="860">
+
+<h1>Gbit Framework</h1> <p>Crie aplicações completas — Frontend, Backend e Smart Contracts — prontas para produção.</p>
+
+<a href="#instalação" style="text-decoration:none;"> <img src="https://img.shields.io/badge/Instalar-agora-1a73e8?style=for-the-badge&logo=npm&logoColor=white" alt="Instalar agora"> </a> <a href="#demo" style="text-decoration:none;"> <img src="https://img.shields.io/badge/Ver%20demo-10b981?style=for-the-badge" alt="Ver demo"> </a> <a href="https://portfolio.metamask.io" target="_blank" style="text-decoration:none;"> <img src="https://img.shields.io/badge/MetaMask%20Portfolio-f97316?style=for-the-badge&logo=metamask&logoColor=white" alt="MetaMask Portfolio"> </a>
+
+</div>
+
 
 
 
