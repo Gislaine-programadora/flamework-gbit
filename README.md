@@ -36,19 +36,6 @@ GBit also comes with an optimized build tool:
 
 
 
-<div align="center">
-
-<img src="./assets/computer-banner.png" alt="Computador Gbit Framework" width="400" />
-
-<h1>🚀 Gbit Framework</h1>
-<p>Crie aplicações completas — Backend, Frontend e Smart Contracts — prontas para produção.</p>
-
-</div>
-
-
-
-
-
 # Gbit  Framework  
 
 [![npm version](https://img.shields.io/npm/v/create-gbit-app.svg)](https://www.npmjs.com/package/create-gbit-app)
